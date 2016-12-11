@@ -1,0 +1,8 @@
+*.iml
+*.eml
+*.userlibraries
+.classpath
+.project
+bin/*
+.idea/*
+tags
